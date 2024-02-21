@@ -1,0 +1,2 @@
+# mydreamproject
+trading with python
